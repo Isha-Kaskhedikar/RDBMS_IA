@@ -1,8 +1,8 @@
 # RDBMS_IA
 
-Name: Isha Kaskhedikar
-Roll no: 1911087
-Course: RDBMS
+Name: Isha Kaskhedikar     
+Roll no: 1911087     
+Course: RDBMS     
 College: KJ Somaiya College of Engineering
 
 About the project-
