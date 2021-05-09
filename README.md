@@ -1,4 +1,11 @@
 # RDBMS_IA
+
+Name: Isha Kaskhedikar
+Roll no: 1911087
+Course: RDBMS
+College: KJ Somaiya College of Engineering
+
+About the project-
 This is a data visualization python implementation based on the research paper attached. 
 For running the notebook:
 1) Download the San Francisco and Philadelphia crime datasets from the Google drive link given below.
